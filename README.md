@@ -17,3 +17,5 @@ Buy and sell signal:
 #Repository Contents:
 1. Code
 2. NVDA Stock Price from 2021 to 2024
+
+Details: https://rahatdhrubo.medium.com/nvda-stock-outperforms-mean-reversion-ed45f4857c51
