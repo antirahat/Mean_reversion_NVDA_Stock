@@ -7,7 +7,8 @@ Mean reversion is a financial theory suggesting that, after an extreme price mov
 Strategy Performance
 Despite implementing the mean reversion strategy, it was observed that the buy/hold strategy outperforms the mean reversion strategy. This is primarily due to the recent uptrend in NVDA stock, which favors a buy/hold approach.
 
-![image](https://github.com/antirahat/Mean_reversion_NVDA_Stock/assets/107720172/e16b305b-3cd1-4d45-909c-47e7485882a6)
+![image](https://github.com/antirahat/Mean_reversion_NVDA_Stock/assets/107720172/20a392d2-ccf1-4ed0-9008-bb4b2f254eda)
+
 
 Buy and sell signal:
 ![image](https://github.com/antirahat/Mean_reversion_NVDA_Stock/assets/107720172/93ea8ea9-dbfd-42c2-b905-a51d6533da92)
