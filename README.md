@@ -9,6 +9,10 @@ Despite implementing the mean reversion strategy, it was observed that the buy/h
 
 ![image](https://github.com/antirahat/Mean_reversion_NVDA_Stock/assets/107720172/e16b305b-3cd1-4d45-909c-47e7485882a6)
 
+Buy and sell signal:
+![image](https://github.com/antirahat/Mean_reversion_NVDA_Stock/assets/107720172/93ea8ea9-dbfd-42c2-b905-a51d6533da92)
+
+
 #Repository Contents:
 1. Code
 2. NVDA Stock Price from 2021 to 2024
